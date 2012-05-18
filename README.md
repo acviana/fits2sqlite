@@ -10,7 +10,7 @@ fits2sqlite is a lightweight python tool created to allow astronomers to easily 
 Motivation
 ----------
 
-The Flexible Image Transport System (FITS) file format is the standard format for astronomical image data. FITS files contain extensive metadata (data about the data) that can be valuable for parsing and understanding data. While the FITS format is good at storing image metadata with the images the fuckfuck cufkcufk .
+In progress.
 
 
 
